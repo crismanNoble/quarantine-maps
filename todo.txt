@@ -1,9 +1,0 @@
-√ upload images to pardot, change srcs
-* create thank you page template
-* create the editable regions
-x create form specific css
-√ analytics code?
-√ a way to inject the css after prefixing it, from a sass file, into the html
-√ maybe js too
-√ form template
-√ form page
